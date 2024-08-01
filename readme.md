@@ -4,8 +4,8 @@
 부산외국어대학교의 hwpx 포맷의 수업시간표를 읽어서 csv로 내보냅니다
 
 ## TODO
-- [ ] It works on my machine
+- [x] It works on my machine
 - [ ] hwpx에서 unzip하고 알아서 내보내기
-- [ ] csv 내보내기
+- [x] csv 내보내기
 - [ ] sqlite 내보내기
 - [ ] argument에 따라 csv 및 sqlite로 내보내기
